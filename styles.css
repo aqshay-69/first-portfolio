@@ -380,10 +380,10 @@ span{
 }
 
 
-.experiences {
+.certificates {
     background: var(--second-bg-color);
 }
-.experiences .heading {
+.certificates .heading {
     text-align: left;
     font-size: 6rem;
     line-height: 1.2;
